@@ -1,0 +1,6 @@
+cron-descriptor==2.0.6
+dlt==1.23.0
+duckdb==1.4.4
+ipykernel==7.2.0
+pandas==3.0.1
+pipdeptree==2.9.6
